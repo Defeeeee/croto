@@ -11,8 +11,5 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/Defeeeee/croto',
     keywords='compiled language',
-    install_requires=[
-          'scikit-learn',
-      ],
 
 )
