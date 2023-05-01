@@ -1,13 +1,14 @@
 Metadata-Version: 2.1
 Name: croto
-Version: 1.0
-Summary: UNKNOWN
+Version: 2.2
+Summary: Croto es un lenguaje compilado basado en Python 3.11
 Home-page: https://github.com/Defeeeee/croto
 Author: Defee
 Author-email: fdiaznemeth@example.com
 License: MIT
 Keywords: compiled language
 Platform: UNKNOWN
+Requires-Python: > 3.00
 
 UNKNOWN
 

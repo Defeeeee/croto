@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+coppado/strings_with_arrows.py
+croto/__init__.py
+croto/croto.py
+croto.egg-info/PKG-INFO
+croto.egg-info/SOURCES.txt
+croto.egg-info/dependency_links.txt
+croto.egg-info/top_level.txt

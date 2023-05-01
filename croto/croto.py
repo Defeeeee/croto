@@ -1,4 +1,4 @@
-from src.strings_with_arrows import *
+from coppado.strings_with_arrows import *
 
 ###################################################
 # CONSTANTES
