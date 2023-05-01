@@ -1,4 +1,4 @@
-from strings_with_arrows import *
+from src.strings_with_arrows import *
 
 ###################################################
 # CONSTANTES

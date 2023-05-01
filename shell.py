@@ -1,4 +1,4 @@
-import croto
+from src import croto
 
 while True:
     text = input('croto > ')

@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='croto',
-    version='0.8',
+    version='1.0',
     license='MIT',
     author="Defee",
     author_email='fdiaznemeth@example.com',
